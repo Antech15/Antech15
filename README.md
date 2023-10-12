@@ -1,4 +1,4 @@
-
+Hello, my name is Andres Hinojosa. I am s 4th year student at CSUSM and will graduate in May 2024. I am currently working on dating web app in a group of 5. I am also learning game programming using Unity.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahinoj) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Antech/)
