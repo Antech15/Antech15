@@ -1,4 +1,6 @@
 Hello, my name is Andres Hinojosa. I am a 4th year student at CSUSM and will graduate in May 2024. I am learning game programming using Unity. My email is: hinoj030@csusm.edu
+## My Pets
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahinoj) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Antech/)
@@ -8,7 +10,6 @@ Hello, my name is Andres Hinojosa. I am a 4th year student at CSUSM and will gra
 ![](https://github-readme-stats.vercel.app/api?username=Antech15&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Antech15&theme=slateorange&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antech15&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://leetcard.jacoblin.cool/Antech?border=0&radius=20)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Antech15&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
