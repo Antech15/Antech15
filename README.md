@@ -1,7 +1,7 @@
 Hello, my name is Andres Hinojosa. I am a 4th year student at CSUSM and will graduate in May 2024. I am learning game programming using Unity. My email is: hinoj030@csusm.edu
 ## My Pets
 
-| Gilberto | Luna | Sol | Peluche |
+| Gilberto (skinwalker) | Luna | Sol | Peluche |
 | --- | --- | --- | --- |
 | <img src="images/gilberto.png" width="200" height="200" style="object-fit: cover; border-radius: 50%;" /> | <img src="images/luna.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" /> | <img src="images/sol.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" /> | <img src="images/peluche.jpg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" /> |
 
