@@ -1,5 +1,4 @@
 Hello, my name is Andres Hinojosa. I am a 4th year student at CSUSM and will graduate in May 2024. My email is: hinoj030@csusm.edu
-## My Pets
 
 | Gilberto |
 | --- |
