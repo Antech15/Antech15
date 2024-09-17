@@ -1,6 +1,6 @@
 Hello, my name is Andres Hinojosa. I am a 4th year student at CSUSM and will graduate in May 2024. My email is: hinoj030@csusm.edu
 
-| Gilberto | |
+| | |
 | --- | --- |
 | <img src="images/gilberto.png" width="200" height="200" style="object-fit: cover; border-radius: 50%;" /> | <img src="images/gilberto2.jpeg" width="200" height="200" style="object-fit: cover; border-radius: 50%;" /> |
 
